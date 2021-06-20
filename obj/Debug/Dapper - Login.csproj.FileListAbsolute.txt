@@ -1,0 +1,15 @@
+C:\Users\bedwu\source\repos\Dapper - Login\bin\Debug\Dapper - Login.exe.config
+C:\Users\bedwu\source\repos\Dapper - Login\bin\Debug\Dapper - Login.exe
+C:\Users\bedwu\source\repos\Dapper - Login\bin\Debug\Dapper - Login.pdb
+C:\Users\bedwu\source\repos\Dapper - Login\obj\Debug\Dapper - Login.csprojAssemblyReference.cache
+C:\Users\bedwu\source\repos\Dapper - Login\obj\Debug\Dapper___Login.Form1.resources
+C:\Users\bedwu\source\repos\Dapper - Login\obj\Debug\Dapper___Login.Properties.Resources.resources
+C:\Users\bedwu\source\repos\Dapper - Login\obj\Debug\Dapper - Login.csproj.GenerateResource.cache
+C:\Users\bedwu\source\repos\Dapper - Login\obj\Debug\Dapper - Login.csproj.CoreCompileInputs.cache
+C:\Users\bedwu\source\repos\Dapper - Login\obj\Debug\Dapper - Login.csproj.CopyComplete
+C:\Users\bedwu\source\repos\Dapper - Login\obj\Debug\Dapper - Login.exe
+C:\Users\bedwu\source\repos\Dapper - Login\obj\Debug\Dapper - Login.pdb
+C:\Users\bedwu\source\repos\Dapper - Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\bedwu\source\repos\Dapper - Login\bin\Debug\MetroFramework.dll
+C:\Users\bedwu\source\repos\Dapper - Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\bedwu\source\repos\Dapper - Login\obj\Debug\Dapper___Login.Form2.resources
